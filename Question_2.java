@@ -32,7 +32,7 @@ interface Box
 {
      private double length, height, width, area;
      private double GSM, Extra_GSM;
-     private int flute [6]={10,,30,20,40,50,20};  //Price
+     private int flute [6]={10,,30,20,40,50,20};  //Price 
      public void pin();
      public void pasting();
      public void single_part();
