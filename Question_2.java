@@ -1,4 +1,4 @@
-/* # Problem 1
+/* # Problem 2
 We need to find manufacturing cost of a box.
 There are 5 type of Box.
 1. Universal
